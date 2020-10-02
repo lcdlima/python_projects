@@ -1,0 +1,1 @@
+# Read 6 values. Then, show how many of these values entered were positive. In the next line, the average of all the positive values entered must be shown, with one digit after the decimal point.
